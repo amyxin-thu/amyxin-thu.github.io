@@ -13,7 +13,7 @@ redirect_from:
 I am a Ph.D. student in the Knowledge Engineering Group (KEG), Department of Computer Science and Technology, Tsinghua University, advised by Prof. [Juanzi Li](https://keg.cs.tsinghua.edu.cn/persons/ljz/).
 Before starting my Ph.D. in 2025, I received my M.S. in Computer Science and Technology from Tsinghua University (2023-2025), and my dual bachelor's degrees in Information Management and Information Systems and Software Engineering from Tsinghua University (2019-2023).
 
-My research focuses on **large language models**, especially **LLM agents for complex tasks** and **LLM alignment / mechanistic understanding**.
+My research focuses on **large language models**, with particular interests in **LLM agents for complex tasks** and **LLM alignment and mechanistic understanding**.
 I am also the founder and lead of the **Auto-Research Agents** project at **Zhipu AI (Z.AI)**, where I work on agent systems for automated research and on improving foundation models for frontier research workflows.
 
 I have published **2 first-author papers** and **5 co-authored papers** at top venues in natural language processing and machine learning, with **280+ Google Scholar citations**.
@@ -25,10 +25,10 @@ You can find my publications on **[Google Scholar](https://scholar.google.com/ci
 My recent work centers on two directions:
 
 **1) LLM agents for complex tasks**  
-I build LLM-based systems that combine retrieval-augmented generation, multi-agent collaboration, and reinforcement learning for complex tasks such as agentic search, scientific research, and financial decision-making.
+Developing LLM-based agents that combine retrieval-augmented generation (RAG), multi-agent collaboration, and reinforcement learning for complex tasks such as agentic search, scientific research, and financial decision-making.
 
 **2) LLM alignment and mechanistic understanding**  
-I study the capability boundaries and internal mechanisms of LLMs, with a particular interest in instruction following, reasoning, world knowledge, and implicit computation in transformer models.
+Studying the capability boundaries and internal mechanisms of LLMs.
 
 
 ## Selected Publications
