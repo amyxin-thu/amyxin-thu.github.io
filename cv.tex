@@ -1,0 +1,254 @@
+
+\documentclass[letterpaper,11pt,UTF8]{article}
+
+\usepackage[UTF8]{ctex} % 输入中文
+
+\usepackage{latexsym}
+\usepackage{palatino}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{fontawesome5}
+\usepackage{ulem}
+\usepackage{graphicx}
+\usepackage{multicol}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{enumitem}
+\setlength{\multicolsep}{-3.0pt}
+\setlength{\columnsep}{-1pt}
+
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella}
+
+\newcommand{\highlight}[1]{\textcolor[RGB]{150,0,0}{\textbf{\textit{#1}}}}
+\newcommand{\myauthor}[1]{\textcolor[RGB]{100,0,0}{\textbf{\textit{#1}}}}
+
+
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\addtolength{\oddsidemargin}{-0.6in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1.19in}
+\addtolength{\topmargin}{-.7in}
+\addtolength{\textheight}{1.4in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+\definecolor{SteelBlue}{rgb}{0.27, 0.51, 0.71}
+\definecolor{THUPurple}{RGB}{102, 8, 116}
+\definecolor{PKURed}{RGB}{139,0,18}
+\definecolor{AstonMartinKermitGreen}{RGB}{23,69,2}
+
+
+
+
+\titleformat{\section}{
+  \vspace{-4pt}\color{THUPurple}\scshape\raggedright\large\bfseries
+}{}{0em}{}[\color{THUPurple}\titlerule \vspace{-5pt}]
+
+
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1}
+  }
+}
+
+\newcommand{\classesList}[4]{
+    \item\small{
+        {#1 #2 #3 #4 \vspace{-2pt}}
+  }
+}
+
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{1.0\textwidth}[t]{@{}l@{\extracolsep{\fill}}r@{}}
+      \textbf{#1} & \textbf{\small #2} \\[1pt]
+      {\renewcommand{\arraystretch}{0.9}%
+      \begin{tabular}[t]{@{}l@{}}\small #3\end{tabular}} & {\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & \small #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{1.001\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & \textbf{\small #2}\\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemi{$\vcenter{\hbox{\tiny$\bullet$}}$}
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.0in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}[leftmargin=18pt, topsep=0pt, itemsep=3pt, parsep=0pt, partopsep=0pt]}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+
+
+\begin{document}
+
+
+
+\begin{center}
+  {\huge \color{THUPurple} Amy Xin（辛馨）} \\ \vspace{5pt}
+  \small \raisebox{-0.1\height}~ \raisebox{-0.2\height}{\faEnvelope} \href{xin-x25@mails.tsinghua.edu.cn}{\raisebox{-0.2\height}\ \uline{xin-x25@mails.tsinghua.edu.cn}} ~
+  \raisebox{-0.2\height}{\faPhone} \ \uline{+86 135 2228 1959}~ 
+  \raisebox{-0.3\height}{\includegraphics[width=0.016\textwidth]{icon/google-scholar.pdf}} \href{https://scholar.google.com/citations?user=2UKO_uYAAAAJ&hl=en}{\raisebox{-0.2\height}\ \uline{Google Scholar}}  
+  % ~ \raisebox{-0.2\height}{\faGithub} \href{https://github.com/APopCycle}{\raisebox{-0.2\height}\ \uline{Github}}
+  \vspace{-5pt}
+\end{center}
+
+\vspace{0.01in}
+
+
+\section{Education}
+\resumeSubHeadingListStart
+\resumeSubheading
+{Tsinghua University}{Sep. 2025 -- Present}
+{Ph.D. in Computer Science and Technology, Department of Computer Science and Technology \\
+\small Research Lab: Knowledge Engineering Group (KEG)}
+{Advised by Prof. Juanzi Li}
+\resumeSubheading
+{Tsinghua University}{Sep. 2023 -- Jun. 2025}
+{M.S. in Computer Science and Technology, Department of Computer Science and Technology \\
+\small Research Lab: Knowledge Engineering Group (KEG)}
+{Advised by Prof. Juanzi Li}
+\resumeSubheading
+{Tsinghua University}{Sep. 2019 -- Jun. 2023}
+{B.M. in Information Management and Information Systems, School of Economics and Management \\
+\small B.Eng. in Software Engineering, School of Software}
+{}
+\resumeSubHeadingListEnd
+
+
+
+
+
+  
+
+
+\vspace{0.005in}
+
+\section{Internship Experience}
+
+\resumeSubHeadingListStart
+\resumeSubheading
+{Zhipu AI (Z.AI)}{Nov. 2025 -- Present}{Auto-Research Agents}{Project Founder \& Lead}
+
+\vspace{3pt}
+\resumeItemListStart
+  \resumeItem{Z.AI is the world's first publicly listed company centered on general AI foundation models (HKEX: 2513). Its GLM-4.5 model ranks third globally in average performance across 12 representative evaluation benchmarks. The company originates from the commercialization of research by the \underline{Knowledge Engineering Group} (KEG) at Tsinghua University.}
+
+  \resumeItem{As lead of the Auto-Research project, I define the roadmap, lead technical planning and execution, and drive the design and development of core modules. My work spans \textbf{(1) agent system development} and \textbf{(2) foundation model research}.}
+
+  \vspace{1pt}
+  \begin{itemize}
+    \item \textbf{Agent system development:} I lead the development of an LLM-based agent system for automated research, supporting closed-loop experiment optimization across research workflows such as model hyperparameter tuning, agent framework engineering, and algorithm design, with human-in-the-loop feedback and control.
+    \vspace{2pt}
+    \item \textbf{Foundation model research:} I use deployment experience from our agent system to identify failure modes of foundation models in frontier research workflows, and lead benchmark design and training optimization efforts to improve model performance across a broader range of related research settings.
+  \end{itemize}
+
+\resumeItemListEnd
+\resumeSubHeadingListEnd
+
+
+
+\vspace{0.005in}
+
+\section{Research Experience and Selected Publications}
+My research focuses on large language models, with particular interests in: \textbf{(1)~LLM agents for complex tasks} and \textbf{(2)~LLM alignment and mechanistic understanding}. I have published \highlight{2} first-author papers and \highlight{5} co-authored papers at top venues in natural language processing and machine learning, with \highlight{280+} Google Scholar citations.
+
+\vspace{0.1in}
+\textbf{(1)~LLM agents for complex tasks} -- Developing LLM-based agents that combine retrieval-augmented generation (RAG), multi-agent collaboration, and reinforcement learning for complex tasks such as agentic search, scientific research, and financial decision-making.
+
+\begin{enumerate}[topsep=0pt,leftmargin=18pt,label={[\arabic*]}]
+    \item \textbf{AtomR: Atomic Operator-Empowered Large Language Models for Heterogeneous Knowledge Reasoning} \\ \myauthor{Amy Xin$^*$}, Jinxin Liu$^*$, Zijun Yao, Zhicheng Lee, Shulin Cao, Lei Hou, Juanzi Li. \textit{KDD 2025, \highlight{Oral}}.
+    \item \textbf{LLMAEL: Large Language Models are Good Context Augmenters for Entity Linking} \\ \myauthor{Amy Xin$^*$}, Yunjia Qi$^*$, Zijun Yao, Fangwei Zhu, Kaisheng Zeng, Bin Xu, Lei Hou, Juanzi Li. \textit{CIKM 2025, \highlight{Oral}}.
+    \item \textbf{StockBench: Can LLM Agents Trade Stocks Profitably In Real-world Markets?} \\ Yanxu Chen$^*$, Zijun Yao$^*$, Yantao Liu$^*$, \myauthor{Amy Xin}, Jin Ye, Jianing Yu, Lei Hou, Juanzi Li. \textit{arXiv preprint, 2025}.
+    \item \textbf{VisKoP: Visual Knowledge Oriented Programming for Interactive Knowledge Base Question Answering} \\ Zijun Yao$^*$, Yuanyong Chen$^*$, Xin Lv, Shulin Cao, \myauthor{Amy Xin}, Jifan Yu, Hailong Jin, Jianjun Xu, Peng Zhang, Lei Hou, Juanzi Li. \textit{ACL 2023, \highlight{Best Demo Award (Top 0.6\%)}}.
+\end{enumerate}
+
+\vspace{0.1in}
+\textbf{(2)~LLM alignment and mechanistic understanding} -- Studying the capability boundaries and internal mechanisms of LLMs.
+
+\begin{enumerate}[resume,topsep=0pt,leftmargin=18pt,label={[\arabic*]}]
+    \item \textbf{AgentIF: Benchmarking Instruction Following of Large Language Models in Agentic Scenarios} \\ Yunjia Qi$^*$, Hao Peng$^*$, Xiaozhi Wang, \myauthor{Amy Xin}, Youfeng Liu, Bin Xu, Lei Hou, Juanzi Li. \textit{NeurIPS 2025, \highlight{Spotlight (Top 5\%)}}.
+    % \item \textbf{On the Paradoxical Interference between Instruction-Following and Task Solving} \\ Yunjia Qi, Hao Peng, Xintong Shi, \myauthor{Amy Xin}, Xiaozhi Wang, Bin Xu, Lei Hou, Juanzi Li. \textit{arXiv preprint, 2026}.
+    \item \textbf{How do Transformers Learn Implicit Reasoning?} \\ Jiaran Ye$^*$, Zijun Yao$^*$, Zhidian Huang, Liangming Pan, Jinxin Liu, Yushi Bai, \myauthor{Amy Xin}, Weichuan Liu, Xiaoyin Che, Lei Hou, Juanzi Li. \textit{NeurIPS 2025, \highlight{Spotlight (Top 5\%)}}.
+    \item \textbf{KoLA: Carefully Benchmarking World Knowledge of Large Language Models} \\
+    Jifan Yu$^*$, Xiaozhi Wang$^*$, Shangqing Tu, Shulin Cao, Daniel Zhang-Li, Xin Lv, Hao Peng, Zijun Yao, Xiaohan Zhang, Hanming Li, Chunyang Li, Zheyuan Zhang, Yushi Bai, Yantao Liu, \myauthor{Amy Xin}, $\dots$, Lei Hou, Zhiyuan Liu, Bin Xu, Jie Tang, Juanzi Li. \textit{ICLR} 2024, \textbf{\textit{Poster}}.
+\end{enumerate}
+
+
+\vspace{0.005in}
+
+
+\section{Patents}
+
+\begin{enumerate}[topsep=0pt,leftmargin=18pt,label={[\arabic*]}]
+    \item \textbf{Method and Device for Heterogeneous Knowledge Reasoning for Large Language Models with Atomic Knowledge Operators} (CN119670883B). Juanzi Li, \highlight{Amy Xin}, Jinxin Liu, Zijun Yao, Zhicheng Lee, Lei Hou.
+    \item \textbf{Question Answering Method and System Based on Large Language Models} (CN119166767A). Juanzi Li, Zhicheng Lee, Zhidian Huang, Zijun Yao, Jinxin Liu, \highlight{Amy Xin}, Lei Hou.
+\end{enumerate}
+
+
+\vspace{0.005in}
+\section{Honors and Awards}
+
+\resumeSubHeadingListStart
+\resumeSubheading
+{ACL Best Demo Award}{2023}{Awarded to \textup{VisKoP} at \textup{ACL 2023} (\highlight{Top 1 / 155})}{}
+\resumeSubheading
+{Tsinghua University Merit Scholarships}{2021 -- 2023}{University-wide merit scholarship recognizing overall excellence; awarded \textup{3} times (\highlight{Top 5\%})}{}
+\resumeSubHeadingListEnd
+
+
+
+
+
+
+
+
+\vspace{0.005in}
+\section{Leadership, Service, and Activities}
+
+\vspace{3pt}
+\resumeItemListStart
+  \resumeItem{\textbf{Leadership \& Service:} Cohort lead for the Knowledge Engineering Group (KEG); lead administrator for the lab's Linux servers; leader of the lab's AI for Research group.
+  \resumeItem{\textbf{Music:} Music content creator with 100K+ followers across platforms, 10M+ video views, and 8M+ audio streams; skilled in orchestral composition, songwriting, piano, and vocals. Winner of the 31st Tsinghua University Singer Competition; Director of the Tsinghua University A Cappella Club; mentor of Tsinghua's ``Music Dream'' Educational Program.}
+  \resumeItem{\textbf{Athletics:} Former President of the Tsinghua University Karate Association and Captain of the university karate team; placed third in the North China regional individual competition; organized Tsinghua University's first university-wide karate competition.}
+}
+\resumeItemListEnd
+\vspace{3pt}
+
+
+
+
+
+\end{document}

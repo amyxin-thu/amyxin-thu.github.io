@@ -10,82 +10,67 @@ redirect_from:
 
 
 
-I am a Ph.D. candidate in the Knowledge Engineering Group (KEG), Department of Computer Science and Technology, Tsinghua University (THU, Sep 2023 – Jun 2026, expected), advised by Prof. [Juanzi Li](https://keg.cs.tsinghua.edu.cn/persons/ljz/). 
-Before that, I finished my education as a master student in THU-KEG, also advised by Prof. Juanzi Li from Sep 2020 to Jun 2023.
-I received my bachelor's degree in Computer Science and Technology from Beijing University of Posts and Telecommunications (BUPT, Sep 2016 – Jun 2020).
+I am a Ph.D. student in the Knowledge Engineering Group (KEG), Department of Computer Science and Technology, Tsinghua University, advised by Prof. [Juanzi Li](https://keg.cs.tsinghua.edu.cn/persons/ljz/).
+Before starting my Ph.D. in 2025, I received my M.S. in Computer Science and Technology from Tsinghua University (2023-2025), and my dual bachelor's degrees in Information Management and Information Systems and Software Engineering from Tsinghua University (2019-2023).
 
-My research sits at the intersection of **large language models (LLMs)**, **knowledge engineering**, and **reasoning**. 
-I have worked as a research intern at Zhipu.AI on building and post-training LLMs, where I work closely with Dr. [Xin Lv](https://davidlvxin.github.io/), and I was a visiting scholar at the NExT++ Research Centre, National University of Singapore (Mar 2025 – Sep 2025) hosted by Prof. [Chua Tat-Seng](https://www.chuatatseng.com/). 
-Earlier, I spent time in THU-KEG on graph learning, supervised by Prof. [Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/).
-I also worked with Prof. [Bin Wu](http://web.evolbio.mpg.de/~bin.wu/welcome.html) on evolutionary game theory on graph.
+My research focuses on **large language models**, especially **LLM agents for complex tasks** and **LLM alignment / mechanistic understanding**.
+I am also the founder and lead of the **Auto-Research Agents** project at **Zhipu AI (Z.AI)**, where I work on agent systems for automated research and on improving foundation models for frontier research workflows.
 
-You can find my publications on **[Google Scholar](https://scholar.google.com/citations?user=B4LmHSUAAAAJ)**.
+I have published **2 first-author papers** and **5 co-authored papers** at top venues in natural language processing and machine learning, with **280+ Google Scholar citations**.
+You can find my publications on **[Google Scholar](https://scholar.google.com/citations?user=2UKO_uYAAAAJ&hl=en)**.
 
 
 ## Detailed Research Interests
 
-I am dedicated to exploring how to (1) establish the science of large language models (Science of LLMs); and (2) enable LLMs with knowledge and reasoning skills to solve scientific tasks (LLMs for Science).
+My recent work centers on two directions:
 
-**1) Science of LLMs**  
-I aim to build a *systematic science* of LLMs that connects internal model mechanics to observable behaviors.
+**1) LLM agents for complex tasks**  
+I build LLM-based systems that combine retrieval-augmented generation, multi-agent collaboration, and reinforcement learning for complex tasks such as agentic search, scientific research, and financial decision-making.
 
-- **Microscopic perspective:** Probe how hidden states, neurons, and sparse features arise and correspond to specific model behaviors; develop tools (e.g., sparse autoencoders) to interpret and **steer** model internals.  
-- **Macroscopic perspective:** Study how architectural and training choices (data, objectives, RL, distillation) shape emergent capabilities such as implicit reasoning and robustness.
-
-**2) LLMs for Science**  
-I explore how LLMs can *assist and automate* the scientific workflow.
-
-- **Knowledge-intensive QA and retrieval:** Combine parametric and retrieved knowledge for fact-seeking, multi-hop reasoning, and conflict resolution.  
-- **Agentic research assistants:** Build multi-agent systems and evaluation protocols for end-to-end scientific inquiry (problem formulation → evidence gathering → reasoning → reporting).  
-- **Learning from real-world feedback:** Use verifiable signals and reward models to help LLMs improve their research skills and factual reliability over time.
+**2) LLM alignment and mechanistic understanding**  
+I study the capability boundaries and internal mechanisms of LLMs, with a particular interest in instruction following, reasoning, world knowledge, and implicit computation in transformer models.
 
 
-**Selected publications**
+## Selected Publications
 
+1. **AtomR: Atomic Operator-Empowered Large Language Models for Heterogeneous Knowledge Reasoning**  
+   <span style="color: rgb(100,0,0)">**Amy Xin**</span>\*, Jinxin Liu\*, Zijun Yao, Zhicheng Lee, Shulin Cao, Lei Hou, Juanzi Li  
+   *KDD, 2025.* <span style="color: rgb(160,0,0)">**Oral Presentation**</span>
 
-1. **SeaKR: Self-aware Knowledge Retrieval for Adaptive Retrieval Augmented Generation**  
-   <span style="color: rgb(100,0,0)">**Zijun Yao**</span>\*, Weijian Qi\*, Liangming Pan, Shulin Cao, Linmei Hu, Weichuan Liu, Lei Hou, Juanzi Li  
-   *ACL, 2025.* <span style="color: rgb(160,0,0)">**Oral Presentation (2.9% in Submission)**</span>
+2. **LLMAEL: Large Language Models are Good Context Augmenters for Entity Linking**  
+   <span style="color: rgb(100,0,0)">**Amy Xin**</span>\*, Yunjia Qi\*, Zijun Yao, Fangwei Zhu, Kaisheng Zeng, Bin Xu, Lei Hou, Juanzi Li  
+   *CIKM, 2025.* <span style="color: rgb(160,0,0)">**Oral Presentation**</span>
 
-2. **VisKoP: Visual Knowledge oriented Programming for Interactive Knowledge Base Question Answering**  
-   <span style="color: rgb(100,0,0)">**Zijun Yao**</span>\*, Yuanyong Chen\*, Xin Lv, Shulin Cao, Amy Xin, Jifan Yu, Hailong Jin, Jianjun Xu, Peng Zhang, Lei Hou, Juanzi Li  
-   *Demo of ACL, 2023.* <span style="color: rgb(160,0,0)">**Best Demo Award**</span>
+3. **StockBench: Can LLM Agents Trade Stocks Profitably In Real-world Markets?**  
+   Yanxu Chen\*, Zijun Yao\*, Yantao Liu\*, <span style="color: rgb(100,0,0)">**Amy Xin**</span>, Jin Ye, Jianing Yu, Lei Hou, Juanzi Li  
+   *arXiv preprint, 2025.*
 
-3. **KoRC: Knowledge oriented Reading Comprehension Benchmark for Deep Text Understanding**  
-   <span style="color: rgb(100,0,0)">**Zijun Yao**</span>\*, Yantao Liu\*, Xin Lv, Shulin Cao, Jifan Yu, Lei Hou, Juanzi Li  
-   *Findings of ACL, 2023.*
+4. **VisKoP: Visual Knowledge Oriented Programming for Interactive Knowledge Base Question Answering**  
+   Zijun Yao\*, Yuanyong Chen\*, Xin Lv, Shulin Cao, <span style="color: rgb(100,0,0)">**Amy Xin**</span>, Jifan Yu, Hailong Jin, Jianjun Xu, Peng Zhang, Lei Hou, Juanzi Li  
+   *ACL, 2023.* <span style="color: rgb(160,0,0)">**Best Demo Award**</span>
 
-4. **Untangle the KNOT: Interweaving Conflicting Knowledge and Reasoning Skills in Large Language Models**  
-   Yantao Liu\*, <span style="color: rgb(100,0,0)">**Zijun Yao**</span>\*, Xin Lv, Yuchen Fan, Shulin Cao, Jifan Yu, Lei Hou, Juanzi Li  
-   *LREC-COLING, 2024.* \[<a href="https://arxiv.org/abs/2405.11876">arXiv</a>\]
+5. **AgentIF: Benchmarking Instruction Following of Large Language Models in Agentic Scenarios**  
+   Yunjia Qi\*, Hao Peng\*, Xiaozhi Wang, <span style="color: rgb(100,0,0)">**Amy Xin**</span>, Youfeng Liu, Bin Xu, Lei Hou, Juanzi Li  
+   *NeurIPS, 2025.* <span style="color: rgb(160,0,0)">**Spotlight**</span>
 
-5. **RM-Bench: Benchmarking Reward Models of Language Models with Subtlety and Style**  
-   Yantao Liu, <span style="color: rgb(100,0,0)">**Zijun Yao**</span>, Rui Min, Yixin Cao, Lei Hou, Juanzi Li  
-   *ICLR, 2025.* <span style="color: rgb(160,0,0)">**Oral Presentation (1.2% in Submission)**</span>
+6. **How do Transformers Learn Implicit Reasoning?**  
+   Jiaran Ye\*, Zijun Yao\*, Zhidian Huang, Liangming Pan, Jinxin Liu, Yushi Bai, <span style="color: rgb(100,0,0)">**Amy Xin**</span>, Weichuan Liu, Xiaoyin Che, Lei Hou, Juanzi Li  
+   *NeurIPS, 2025.* <span style="color: rgb(160,0,0)">**Spotlight**</span>
 
-6. **Transferable and Efficient Non-Factual Content Detection via Probe Training with Offline Consistency Checking**  
-   Xiaokang Zhang\*, <span style="color: rgb(100,0,0)">**Zijun Yao**</span>\*, Jing Zhang, Kaifeng Yun, Jifan Yu, Juanzi Li, Jie Tang  
-   *ACL, 2024.* \[<a href="https://arxiv.org/abs/2405.11874">arXiv</a>\]
-
-7. **LinguaLens: Towards Interpreting Linguistic Mechanisms of Large Language Models via Sparse Auto-Encoder**  
-   Yi Jing, <span style="color: rgb(100,0,0)">**Zijun Yao**</span>, Lingxu Ran, Hongzhu Guo, Xiaozhi Wang, Lei Hou, Juanzi Li  
-   *EMNLP, 2025.*
-
-8. **How does Transformer Learn Implicit Reasoning?**  
-   Jiaran Ye\*, <span style="color: rgb(100,0,0)">**Zijun Yao**</span>\*, Zhidian Huang, Liangming Pan, Jinxin Liu, Yushi Bai, Amy Xin, Liu Weichuan, Xiaoyin Che, Lei Hou, Juanzi Li  
-   *NeurIPS, 2025.* <span style="color: rgb(160,0,0)">**Spotlight (3.5% in Submission)**</span>
-
-9. **Interpretable and Low-Resource Entity Matching via Decoupling Feature Learning from Decision Making**  
-   <span style="color: rgb(100,0,0)">**Zijun Yao**</span>, Chengjiang Li, Tiansi Dong, Xin Lv, Jifan Yu, Lei Hou, Juanzi Li, Yichi Zhang, Zelin Dai  
-   *ACL-IJCNLP, 2021.* \[<a href="https://arxiv.org/abs/2105.14467">arXiv</a>\]
+7. **KoLA: Carefully Benchmarking World Knowledge of Large Language Models**  
+   Jifan Yu\*, Xiaozhi Wang\*, Shangqing Tu, Shulin Cao, Daniel Zhang-Li, Xin Lv, Hao Peng, Zijun Yao, Xiaohan Zhang, Hanming Li, Chunyang Li, Zheyuan Zhang, Yushi Bai, Yantao Liu, <span style="color: rgb(100,0,0)">**Amy Xin**</span>, ..., Lei Hou, Zhiyuan Liu, Bin Xu, Jie Tang, Juanzi Li  
+   *ICLR, 2024.*
 
 <sup>\* Equal contribution</sup>
 
 
+## Honors and Activities
 
+- **ACL Best Demo Award (2023)** for *VisKoP*.
+- **Tsinghua University Merit Scholarships (2021-2023)**, awarded three times.
+- Active in research leadership and service within KEG, and involved in music and athletics communities at Tsinghua.
 
-
-*Last updated: Nov 2025.*
+*Last updated: Apr 2026.*
 
 
 
