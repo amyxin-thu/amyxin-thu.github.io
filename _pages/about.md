@@ -76,7 +76,7 @@ Studying the capability boundaries and internal mechanisms of LLMs.
 Outside research, music is a big part of my life. I enjoy **music arrangement**, **singing, and songwriting**.
 I have long been active in music communities at Tsinghua.
 
-I also have a soft spot for **puppies** and all kinds of **cute animals** - they reliably make my day better.
+I also have a soft spot for **puppies** and all kinds of **cute animals** - they reliably make my day better. Nya~
 
 *Last updated: Apr 2026.*
 
