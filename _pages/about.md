@@ -70,6 +70,14 @@ Studying the capability boundaries and internal mechanisms of LLMs.
 - **Tsinghua University Merit Scholarships (2021-2023)**, awarded three times.
 - Active in research leadership and service within KEG, and involved in music and athletics communities at Tsinghua.
 
+
+## Beyond Research
+
+Outside research, music is a big part of my life. I enjoy **music arrangement**, **singing, and songwriting**.
+I have long been active in music communities at Tsinghua.
+
+I also have a soft spot for **puppies** and all kinds of **cute animals** - they reliably make my day better.
+
 *Last updated: Apr 2026.*
 
 
