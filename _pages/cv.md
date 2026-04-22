@@ -11,12 +11,13 @@ redirect_from:
 
 ## Download CV
 
-I maintain two versions of my CV:
+You can download my CV in the following versions:
 
-**Long CV (Detailed):**
-- <a href="/files/cv/cv_long_en.pdf" style="color: rgb(70, 130, 180);">English (PDF)</a>
+### Detailed CV
 
-**Short CV (Concise):**
-- Coming soon
+- <a href="{{ base_path }}/files/cv/cv_long_en.pdf" style="color: rgb(70, 130, 180);">English version (PDF)</a>
+- <a href="{{ base_path }}/files/cv/cv_long_zh.pdf" style="color: rgb(70, 130, 180);">中文版本 (PDF)</a>
 
-*Note: Chinese versions will be available soon.*
+### Short CV
+
+Coming soon.
