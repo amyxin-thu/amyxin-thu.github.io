@@ -11,66 +11,94 @@ redirect_from:
 
 
 I am a Ph.D. student in the Knowledge Engineering Group (KEG), Department of Computer Science and Technology, Tsinghua University, advised by Prof. [Juanzi Li](https://keg.cs.tsinghua.edu.cn/persons/ljz/).
-Before starting my Ph.D. in 2025, I received my M.S. in Computer Science and Technology from Tsinghua University (2023-2025), and my dual bachelor's degrees in Information Management and Information Systems and Software Engineering from Tsinghua University (2019-2023).
+Before starting my Ph.D., I received my M.S. in Computer Science and Technology from Tsinghua University in 2025, and my dual bachelor's degrees in Information Management and Information Systems and Software Engineering from Tsinghua University in 2023.
 
-My research focuses on **large language models**, with particular interests in **LLM agents for complex tasks** and **LLM alignment and mechanistic understanding**.
-I am also the founder and lead of the **Auto-Research Agents** project at **Zhipu AI (Z.AI)**, where I work on agent systems for automated research and on improving foundation models for frontier research workflows.
+My research focuses on **large language models**, with a recent focus on **LLM agents for scientific research**.
 
-I have published **2 first-author papers** and **5 co-authored papers** at top venues in natural language processing and machine learning, with **280+ Google Scholar citations**.
+Currently, I have **3 first-author papers** and **8 co-authored papers**, with **350+ Google Scholar citations**.
 You can find my publications on **[Google Scholar](https://scholar.google.com/citations?user=2UKO_uYAAAAJ&hl=en)**.
 
 
-## Detailed Research Interests
+## Research Interests
 
-My recent work centers on two directions:
+My vision is to build **powerful and responsible AI agents** that augment human intelligence, productivity, and well-being. My recent work centers on two directions:
 
-**1) LLM agents for complex tasks**  
-Developing LLM-based agents that combine retrieval-augmented generation (RAG), multi-agent collaboration, and reinforcement learning for complex tasks such as agentic search, scientific research, and financial decision-making.
+**1) LLM Agents for Scientific and Strategic Research**  
+Developing capable agentic systems that accelerate scientific research and strategic decision making.
 
-**2) LLM alignment and mechanistic understanding**  
-Studying the capability boundaries and internal mechanisms of LLMs.
+Selected papers:
 
+- **EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery**  
+   <span style="color: rgb(100,0,0)">**Amy Xin**</span>, Jiening Siow, Junjie Wang, Zijun Yao, Fanjin Zhang, Jian Song, Lei Hou, Juanzi Li  
+   *arXiv preprint, 2026.* <span style="color: rgb(160,0,0)">**Award Winner, BAAI Agent for Science Competition; Invited Oral Presentation at 2026 BAAI Conference**</span>
 
-## Selected Publications
+- **StockBench: Can LLM Agents Trade Stocks Profitably In Real-world Markets?**  
+   Yanxu Chen\*, Zijun Yao\*, Yantao Liu\*, <span style="color: rgb(100,0,0)">**Amy Xin**</span>, Jin Ye, Jianing Yu, Lei Hou, Juanzi Li  
+   *arXiv preprint, 2025.*
+   
+- **AISE-Bench: A Full-Cycle Curated Benchmark for Information Seeking on Academic Knowledge Graphs**  
+   Fanjin Zhang\*, Zhengyang Wang\*, Ruixuan Huang, Kefan Zhang, <span style="color: rgb(100,0,0)">**Amy Xin**</span>, Yuanchun Wang, Shu Zhao, Evgeny Kharlamov, Jie Tang, Juanzi Li  
+   *KDD, 2026.*
 
-1. **AtomR: Atomic Operator-Empowered Large Language Models for Heterogeneous Knowledge Reasoning**  
+**2) General LLM agents and Model Understanding**  
+Building and evaluating general-purpose agentic systems across complex tasks and environments, while studying the capability boundaries and internal mechanisms of LLMs.
+
+Selected papers:
+- **AtomR: Atomic Operator-Empowered Large Language Models for Heterogeneous Knowledge Reasoning**  
    <span style="color: rgb(100,0,0)">**Amy Xin**</span>\*, Jinxin Liu\*, Zijun Yao, Zhicheng Lee, Shulin Cao, Lei Hou, Juanzi Li  
    *KDD, 2025.* <span style="color: rgb(160,0,0)">**Oral Presentation**</span>
 
-2. **LLMAEL: Large Language Models are Good Context Augmenters for Entity Linking**  
+- **LLMAEL: Large Language Models are Good Context Augmenters for Entity Linking**  
    <span style="color: rgb(100,0,0)">**Amy Xin**</span>\*, Yunjia Qi\*, Zijun Yao, Fangwei Zhu, Kaisheng Zeng, Bin Xu, Lei Hou, Juanzi Li  
    *CIKM, 2025.* <span style="color: rgb(160,0,0)">**Oral Presentation**</span>
 
-3. **StockBench: Can LLM Agents Trade Stocks Profitably In Real-world Markets?**  
-   Yanxu Chen\*, Zijun Yao\*, Yantao Liu\*, <span style="color: rgb(100,0,0)">**Amy Xin**</span>, Jin Ye, Jianing Yu, Lei Hou, Juanzi Li  
-   *arXiv preprint, 2025.*
-
-4. **VisKoP: Visual Knowledge Oriented Programming for Interactive Knowledge Base Question Answering**  
-   Zijun Yao\*, Yuanyong Chen\*, Xin Lv, Shulin Cao, <span style="color: rgb(100,0,0)">**Amy Xin**</span>, Jifan Yu, Hailong Jin, Jianjun Xu, Peng Zhang, Lei Hou, Juanzi Li  
-   *ACL, 2023.* <span style="color: rgb(160,0,0)">**Best Demo Award**</span>
-
-5. **AgentIF: Benchmarking Instruction Following of Large Language Models in Agentic Scenarios**  
+- **AgentIF: Benchmarking Instruction Following of Large Language Models in Agentic Scenarios**  
    Yunjia Qi\*, Hao Peng\*, Xiaozhi Wang, <span style="color: rgb(100,0,0)">**Amy Xin**</span>, Youfeng Liu, Bin Xu, Lei Hou, Juanzi Li  
    *NeurIPS, 2025.* <span style="color: rgb(160,0,0)">**Spotlight**</span>
 
-6. **How do Transformers Learn Implicit Reasoning?**  
+- **VisKoP: Visual Knowledge Oriented Programming for Interactive Knowledge Base Question Answering**  
+   Zijun Yao\*, Yuanyong Chen\*, Xin Lv, Shulin Cao, <span style="color: rgb(100,0,0)">**Amy Xin**</span>, Jifan Yu, Hailong Jin, Jianjun Xu, Peng Zhang, Lei Hou, Juanzi Li  
+   *ACL, 2023.* <span style="color: rgb(160,0,0)">**Best Demo Award**</span>
+
+- **How do Transformers Learn Implicit Reasoning?**  
    Jiaran Ye\*, Zijun Yao\*, Zhidian Huang, Liangming Pan, Jinxin Liu, Yushi Bai, <span style="color: rgb(100,0,0)">**Amy Xin**</span>, Weichuan Liu, Xiaoyin Che, Lei Hou, Juanzi Li  
    *NeurIPS, 2025.* <span style="color: rgb(160,0,0)">**Spotlight**</span>
 
-7. **KoLA: Carefully Benchmarking World Knowledge of Large Language Models**  
+- **KoLA: Carefully Benchmarking World Knowledge of Large Language Models**  
    Jifan Yu\*, Xiaozhi Wang\*, Shangqing Tu, Shulin Cao, Daniel Zhang-Li, Xin Lv, Hao Peng, Zijun Yao, Xiaohan Zhang, Hanming Li, Chunyang Li, Zheyuan Zhang, Yushi Bai, Yantao Liu, <span style="color: rgb(100,0,0)">**Amy Xin**</span>, ..., Lei Hou, Zhiyuan Liu, Bin Xu, Jie Tang, Juanzi Li  
    *ICLR, 2024.*
 
 <sup>\* Equal contribution</sup>
 
+## Open-source Projects
 
-## Honors and Activities
+- **[EurekAgent](https://github.com/THU-Team-Eureka/EurekAgent)**  
+  [![GitHub stars](https://img.shields.io/github/stars/THU-Team-Eureka/EurekAgent?style=social)](https://github.com/THU-Team-Eureka/EurekAgent)  
+  An autonomous research system for metric-driven scientific discovery. Given a problem and evaluation criteria, EurekAgent coordinates CLI agents (e.g., Claude Code) to propose approaches, implement code, run experiments, and iterate toward stronger results, with Docker-based isolation, resumable runs, and easy human oversight.
 
-- **ACL Best Demo Award (2023)** for *VisKoP*.
-- **Tsinghua University Merit Scholarships (2021-2023)**, awarded three times.
-- Active in research leadership and service within KEG, and involved in music and athletics communities at Tsinghua.
+- **[Awesome AI for Research](https://github.com/THU-KEG/Awesome-AI-for-Research)**  
+  [![GitHub stars](https://img.shields.io/github/stars/THU-KEG/Awesome-AI-for-Research?style=social)](https://github.com/THU-KEG/Awesome-AI-for-Research)  
+  A curated collection of recent and significant AI-for-research papers, systems, benchmarks, and projects. The repository organizes work across research stages, agent roles, application domains, and evaluation benchmarks to help researchers navigate the evolving AI4Research landscape.
 
-*Last updated: Apr 2026.*
+## Honors and Awards
+
+- **BAAI Agent for Science Competition Highlight Award** for *EurekAgent* (2026).
+- **ACL Best Demo Award** for *VisKoP* (2023).
+- **Tsinghua University Merit Scholarships**, awarded three times (2021-2023).
+- **Chinese Government Scholarship**, awarded for 4 consecutive years (2023-2026).
+
+## Activities and Hobbies
+
+- 🎵 I have a deep passion for music, spanning songwriting, vocals, and instruments. I am a music content creator with 100K+ followers, 10M+ video views, and 8M+ audio streams across platforms. I won the 31st Tsinghua University Campus Singing Competition with an original song.
+
+  You can find my music channels here: [📺 Bilibili](https://space.bilibili.com/26817270?spm_id_from=333.337.0.0) and [▶️ YouTube](https://www.youtube.com/@amiarrangements).
+
+- 🏃‍♀️ Feel free to follow me on [📕 Xiaohongshu](https://www.xiaohongshu.com/user/profile/5c5828ec0000000011034c90) and [𝕏](https://x.com/amyxin2001?s=11) for recent updates.
+
+- 📚 I also enjoy reading philosophy, sociology, psychology, and economics.
+
+
+*Last updated: June 2026.*
 
 
 
