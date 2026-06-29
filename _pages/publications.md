@@ -55,13 +55,10 @@ author_profile: true
    Jifan Yu\*, Xiaozhi Wang\*, Shangqing Tu, Shulin Cao, Daniel Zhang-Li, Xin Lv, Hao Peng, Zijun Yao, Xiaohan Zhang, Hanming Li, Chunyang Li, Zheyuan Zhang, Yushi Bai, Yantao Liu, <span style="color: rgb(100,0,0)">**Amy Xin**</span>, ..., Lei Hou, Zhiyuan Liu, Bin Xu, Jie Tang, Juanzi Li  
    *ICLR, 2024.*
 
-11. **Improving Text Embeddings for Smaller Language Models Using Contrastive Fine-tuning**  
-   Trapoom Ukarapol, Zhicheng Lee, <span style="color: rgb(100,0,0)">**Amy Xin**</span>  
-   *arXiv preprint, 2024.*
 
 ## 2023
 
-12. **VisKoP: Visual Knowledge Oriented Programming for Interactive Knowledge Base Question Answering**  
+11. **VisKoP: Visual Knowledge Oriented Programming for Interactive Knowledge Base Question Answering**  
    Zijun Yao\*, Yuanyong Chen\*, Xin Lv, Shulin Cao, <span style="color: rgb(100,0,0)">**Amy Xin**</span>, Jifan Yu, Hailong Jin, Jianjun Xu, Peng Zhang, Lei Hou, Juanzi Li  
    *ACL, 2023.* <span style="color: rgb(160,0,0)">**Best Demo Award**</span>
 
