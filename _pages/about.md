@@ -89,7 +89,7 @@ Selected papers:
 
 ## Activities and Hobbies
 
-- 🎵 I have a deep passion for music, spanning songwriting, vocals, and instruments. I am a music content creator with 100K+ followers, 10M+ video views, and 8M+ audio streams across platforms. I won the 31st Tsinghua University Campus Singing Competition with an original song.
+- 🎵 I have a deep passion for music, spanning songwriting, vocals, and instruments. I am a music content creator with 100K+ followers, 100M+ video views, and 80M+ audio streams across platforms. I won the 31st Tsinghua University Campus Singing Competition with an original song.
 
   You can find my music channels here: [📺 Bilibili](https://space.bilibili.com/26817270?spm_id_from=333.337.0.0) and [▶️ YouTube](https://www.youtube.com/@amiarrangements).
 
