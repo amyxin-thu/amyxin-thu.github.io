@@ -29,7 +29,7 @@ repository               : "amyxin-thu/amyxin-thu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile-var2.png"
   name             : "Amy Xin（辛馨）"
   pronouns         : # example: "she/her"  
   bio              : "👋 Hi there~Thanks for visiting my website! <br> I'm a Ph.D. student at THU-KEG"
