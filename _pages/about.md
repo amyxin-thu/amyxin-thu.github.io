@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 
-
-
 I am a Ph.D. student in the Knowledge Engineering Group (KEG), Department of Computer Science and Technology, Tsinghua University, advised by Prof. [Juanzi Li](https://keg.cs.tsinghua.edu.cn/persons/ljz/).
 Before starting my Ph.D., I received my M.S. in Computer Science and Technology from Tsinghua University in 2025, and my dual bachelor's degrees in Information Management and Information Systems and Software Engineering from Tsinghua University in 2023.
 
@@ -25,50 +23,64 @@ My vision is to build **powerful and responsible AI agents** that augment human 
 
 **1) LLM Agents for Scientific and Strategic Research**  
 Developing capable agentic systems that accelerate scientific research and strategic decision making.
+Representative works: [EurekAgent](https://arxiv.org/abs/2606.13662), [StockBench](https://arxiv.org/abs/2510.02209).
 
-Selected papers:
+**2) General LLM Agents and Model Understanding**  
+Building and evaluating general-purpose agentic systems across complex tasks and environments, while studying the capability boundaries and internal mechanisms of LLMs.
+Representative works: [AtomR](https://arxiv.org/abs/2411.16495), [LLMAEL](https://arxiv.org/abs/2407.04020), [AGENTIF](https://arxiv.org/abs/2505.16944), [KoLA](https://arxiv.org/abs/2306.09296).
 
-- **EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery**  
+## News
+
+- 🎉 **[Jun 2026]** We open-sourced **[EurekAgent](https://github.com/THU-Team-Eureka/EurekAgent)**, won the **BAAI Agent for Science Competition Highlight Award**, and gave an invited oral presentation at the 2026 BAAI Conference.
+- 🔥 **[May 2026]** Our paper **AISE-Bench: A Full-Cycle Curated Benchmark for Information Seeking on Academic Knowledge Graphs** was accepted to **KDD 2026**.
+- 🌟 **[Dec 2025]** Our papers **[AGENTIF: Benchmarking Instruction Following of Large Language Models in Agentic Scenarios](https://arxiv.org/abs/2505.16944)** and **[How do Transformers Learn Implicit Reasoning?](https://arxiv.org/abs/2505.23653)** were both accepted to **NeurIPS 2025** as *apotlight papers*.
+- 📣 **[Nov 2025]** Our paper **[LLMAEL: Large Language Models are Good Context Augmenters for Entity Linking](https://arxiv.org/abs/2407.04020)** was accepted to **CIKM 2025** as an *oral paper*.
+- 📈 **[Oct 2025]** We open-sourced **[StockBench](https://arxiv.org/abs/2510.02209)**, a contamination-free benchmark for evaluating LLM agents in realistic, multi-month stock trading environments.
+- 🚀 **[Aug 2025]** Our paper **[AtomR: Atomic Operator-Empowered Large Language Models for Heterogeneous Knowledge Reasoning](https://arxiv.org/abs/2411.16495)** was accepted to **KDD 2025** as an *oral paper*.
+
+## Selected Publications
+
+<sup>\* Equal contribution. Please refer to my [Google Scholar profile](https://scholar.google.com/citations?user=2UKO_uYAAAAJ&hl=en) for the full list.</sup>
+
+### LLM Agents for Scientific and Strategic Research
+
+1. **[EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery](https://arxiv.org/abs/2606.13662)**  
    <span style="color: rgb(100,0,0)">**Amy Xin**</span>, Jiening Siow, Junjie Wang, Zijun Yao, Fanjin Zhang, Jian Song, Lei Hou, Juanzi Li  
    *arXiv preprint, 2026.* <span style="color: rgb(160,0,0)">**Award Winner, BAAI Agent for Science Competition; Invited Oral Presentation at 2026 BAAI Conference**</span>
 
-- **StockBench: Can LLM Agents Trade Stocks Profitably In Real-world Markets?**  
+2. **[StockBench: Can LLM Agents Trade Stocks Profitably In Real-world Markets?](https://arxiv.org/abs/2510.02209)**  
    Yanxu Chen\*, Zijun Yao\*, Yantao Liu\*, <span style="color: rgb(100,0,0)">**Amy Xin**</span>, Jin Ye, Jianing Yu, Lei Hou, Juanzi Li  
    *arXiv preprint, 2025.*
    
-- **AISE-Bench: A Full-Cycle Curated Benchmark for Information Seeking on Academic Knowledge Graphs**  
+3. **AISE-Bench: A Full-Cycle Curated Benchmark for Information Seeking on Academic Knowledge Graphs**  
    Fanjin Zhang\*, Zhengyang Wang\*, Ruixuan Huang, Kefan Zhang, <span style="color: rgb(100,0,0)">**Amy Xin**</span>, Yuanchun Wang, Shu Zhao, Evgeny Kharlamov, Jie Tang, Juanzi Li  
    *KDD, 2026.*
 
-**2) General LLM agents and Model Understanding**  
-Building and evaluating general-purpose agentic systems across complex tasks and environments, while studying the capability boundaries and internal mechanisms of LLMs.
+### General LLM Agents and Model Understanding
 
-Selected papers:
-- **AtomR: Atomic Operator-Empowered Large Language Models for Heterogeneous Knowledge Reasoning**  
+4. **[AtomR: Atomic Operator-Empowered Large Language Models for Heterogeneous Knowledge Reasoning](https://arxiv.org/abs/2411.16495)**  
    <span style="color: rgb(100,0,0)">**Amy Xin**</span>\*, Jinxin Liu\*, Zijun Yao, Zhicheng Lee, Shulin Cao, Lei Hou, Juanzi Li  
    *KDD, 2025.* <span style="color: rgb(160,0,0)">**Oral Presentation**</span>
 
-- **LLMAEL: Large Language Models are Good Context Augmenters for Entity Linking**  
+5. **[LLMAEL: Large Language Models are Good Context Augmenters for Entity Linking](https://arxiv.org/abs/2407.04020)**  
    <span style="color: rgb(100,0,0)">**Amy Xin**</span>\*, Yunjia Qi\*, Zijun Yao, Fangwei Zhu, Kaisheng Zeng, Bin Xu, Lei Hou, Juanzi Li  
    *CIKM, 2025.* <span style="color: rgb(160,0,0)">**Oral Presentation**</span>
 
-- **AgentIF: Benchmarking Instruction Following of Large Language Models in Agentic Scenarios**  
+6. **[AGENTIF: Benchmarking Instruction Following of Large Language Models in Agentic Scenarios](https://arxiv.org/abs/2505.16944)**  
    Yunjia Qi\*, Hao Peng\*, Xiaozhi Wang, <span style="color: rgb(100,0,0)">**Amy Xin**</span>, Youfeng Liu, Bin Xu, Lei Hou, Juanzi Li  
    *NeurIPS, 2025.* <span style="color: rgb(160,0,0)">**Spotlight**</span>
 
-- **VisKoP: Visual Knowledge Oriented Programming for Interactive Knowledge Base Question Answering**  
+7. **[VisKoP: Visual Knowledge Oriented Programming for Interactive Knowledge Base Question Answering](https://arxiv.org/abs/2307.03130)**  
    Zijun Yao\*, Yuanyong Chen\*, Xin Lv, Shulin Cao, <span style="color: rgb(100,0,0)">**Amy Xin**</span>, Jifan Yu, Hailong Jin, Jianjun Xu, Peng Zhang, Lei Hou, Juanzi Li  
    *ACL, 2023.* <span style="color: rgb(160,0,0)">**Best Demo Award**</span>
 
-- **How do Transformers Learn Implicit Reasoning?**  
+8. **[How do Transformers Learn Implicit Reasoning?](https://arxiv.org/abs/2505.23653)**  
    Jiaran Ye\*, Zijun Yao\*, Zhidian Huang, Liangming Pan, Jinxin Liu, Yushi Bai, <span style="color: rgb(100,0,0)">**Amy Xin**</span>, Weichuan Liu, Xiaoyin Che, Lei Hou, Juanzi Li  
    *NeurIPS, 2025.* <span style="color: rgb(160,0,0)">**Spotlight**</span>
 
-- **KoLA: Carefully Benchmarking World Knowledge of Large Language Models**  
+9. **[KoLA: Carefully Benchmarking World Knowledge of Large Language Models](https://arxiv.org/abs/2306.09296)**  
    Jifan Yu\*, Xiaozhi Wang\*, Shangqing Tu, Shulin Cao, Daniel Zhang-Li, Xin Lv, Hao Peng, Zijun Yao, Xiaohan Zhang, Hanming Li, Chunyang Li, Zheyuan Zhang, Yushi Bai, Yantao Liu, <span style="color: rgb(100,0,0)">**Amy Xin**</span>, ..., Lei Hou, Zhiyuan Liu, Bin Xu, Jie Tang, Juanzi Li  
    *ICLR, 2024.*
-
-<sup>\* Equal contribution</sup>
 
 ## Open-source Projects
 
@@ -82,10 +94,10 @@ Selected papers:
 
 ## Honors and Awards
 
-- **BAAI Agent for Science Competition Highlight Award** for *EurekAgent* (2026).
-- **ACL Best Demo Award** for *VisKoP* (2023).
-- **Tsinghua University Merit Scholarships**, awarded three times (2021-2023).
+- **BAAI Agent for Science Competition Highlight Award** for *[EurekAgent](https://arxiv.org/abs/2606.13662)* (2026).
+- **ACL Best Demo Award** for *[VisKoP](https://arxiv.org/abs/2307.03130)* (2023).
 - **Chinese Government Scholarship**, awarded for 4 consecutive years (2023-2026).
+- **Tsinghua University Merit Scholarships**, awarded three times (2021-2023).
 
 ## Activities and Hobbies
 
@@ -98,7 +110,7 @@ Selected papers:
 - 📚 I also enjoy reading philosophy, sociology, psychology, and economics.
 
 
-*Last updated: June 2026.*
+*Last updated: July 2026.*
 
 
 
