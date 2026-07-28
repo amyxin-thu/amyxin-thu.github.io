@@ -32,7 +32,7 @@ Representative works: [AtomR](https://arxiv.org/abs/2411.16495), [LLMAEL](https:
 ## News
 
 - 🎉 **[Jun 2026]** We open-sourced **[EurekAgent](https://github.com/THU-Team-Eureka/EurekAgent)**, won the **BAAI Agent for Science Competition Highlight Award**, and gave an invited oral presentation at the 2026 BAAI Conference.
-- 🔥 **[May 2026]** Our paper **AISE-Bench: A Full-Cycle Curated Benchmark for Information Seeking on Academic Knowledge Graphs** was accepted to **KDD 2026**.
+- 🔥 **[May 2026]** Our paper **[AISE-Bench: A Full-Cycle Curated Benchmark for Information Seeking on Academic Knowledge Graphs](https://arxiv.org/abs/2607.20498)** was accepted to **KDD 2026**.
 - 🌟 **[Dec 2025]** Our papers **[AGENTIF: Benchmarking Instruction Following of Large Language Models in Agentic Scenarios](https://arxiv.org/abs/2505.16944)** and **[How do Transformers Learn Implicit Reasoning?](https://arxiv.org/abs/2505.23653)** were both accepted to **NeurIPS 2025** as *apotlight papers*.
 - 📣 **[Nov 2025]** Our paper **[LLMAEL: Large Language Models are Good Context Augmenters for Entity Linking](https://arxiv.org/abs/2407.04020)** was accepted to **CIKM 2025** as an *oral paper*.
 - 📈 **[Oct 2025]** We open-sourced **[StockBench](https://arxiv.org/abs/2510.02209)**, a contamination-free benchmark for evaluating LLM agents in realistic, multi-month stock trading environments.
@@ -52,7 +52,7 @@ Representative works: [AtomR](https://arxiv.org/abs/2411.16495), [LLMAEL](https:
    Yanxu Chen\*, Zijun Yao\*, Yantao Liu\*, <span style="color: rgb(100,0,0)">**Amy Xin**</span>, Jin Ye, Jianing Yu, Lei Hou, Juanzi Li  
    *arXiv preprint, 2025.*
    
-3. **AISE-Bench: A Full-Cycle Curated Benchmark for Information Seeking on Academic Knowledge Graphs**  
+3. **[AISE-Bench: A Full-Cycle Curated Benchmark for Information Seeking on Academic Knowledge Graphs](https://arxiv.org/abs/2607.20498)**  
    Fanjin Zhang\*, Zhengyang Wang\*, Ruixuan Huang, Kefan Zhang, <span style="color: rgb(100,0,0)">**Amy Xin**</span>, Yuanchun Wang, Shu Zhao, Evgeny Kharlamov, Jie Tang, Juanzi Li  
    *KDD, 2026.*
 
