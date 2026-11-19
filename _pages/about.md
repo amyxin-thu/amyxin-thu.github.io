@@ -21,9 +21,9 @@ You can find my publications on **[Google Scholar](https://scholar.google.com/ci
 
 My vision is to build **powerful and responsible AI agents** that augment human intelligence, productivity, and well-being. My recent work centers on two directions:
 
-**1) LLM Agents for Scientific and Strategic Research**  
-Developing capable agentic systems that accelerate scientific research and strategic decision making.
-Representative works: [EurekAgent](https://arxiv.org/abs/2606.13662), [IdeaReward](https://openreview.net/forum?id=KL3GMYps6X), [RIDAR](https://arxiv.org/abs/2610.31372), [OSWorld-Science](https://arxiv.org/abs/2609.39903), [StockBench](https://arxiv.org/abs/2510.02209).
+**1) LLM Agents for Scientific Research**  
+Developing LLM agents that accelerate scientific research.
+Representative works: [EurekAgent](https://arxiv.org/abs/2606.13662), [IdeaReward](https://openreview.net/forum?id=KL3GMYps6X), [RIDAR](https://arxiv.org/abs/2610.31372), [OSWorld-Science](https://arxiv.org/abs/2609.39903).
 
 **2) General LLM Agents and Model Understanding**  
 Building and evaluating general-purpose agentic systems across complex tasks and environments, while studying the capability boundaries and internal mechanisms of LLMs.
@@ -41,7 +41,7 @@ Representative works: [AtomR](https://arxiv.org/abs/2411.16495), [LLMAEL](https:
 
 <sup>\* Equal contribution. Please refer to my [Google Scholar profile](https://scholar.google.com/citations?user=2UKO_uYAAAAJ&hl=en) for the full list.</sup>
 
-### LLM Agents for Scientific and Strategic Research
+### LLM Agents for Scientific Research
 
 1. **[IdeaReward: Benchmarking and Training Reward Models for Research Idea Generation](https://openreview.net/forum?id=KL3GMYps6X)**  
    <span style="color: rgb(100,0,0)">**Amy Xin**</span>\*, Xinming Xu\*, Yunjia Qi, Bin Xu, Lei Hou, Juanzi Li  
