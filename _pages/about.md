@@ -23,7 +23,7 @@ My vision is to build **powerful and responsible AI agents** that augment human 
 
 **1) LLM Agents for Scientific and Strategic Research**  
 Developing capable agentic systems that accelerate scientific research and strategic decision making.
-Representative works: [EurekAgent](https://arxiv.org/abs/2606.13662), [StockBench](https://arxiv.org/abs/2510.02209).
+Representative works: [EurekAgent](https://arxiv.org/abs/2606.13662), [IdeaReward](https://openreview.net/forum?id=KL3GMYps6X), [RIDAR](https://arxiv.org/abs/2610.31372), [StockBench](https://arxiv.org/abs/2510.02209).
 
 **2) General LLM Agents and Model Understanding**  
 Building and evaluating general-purpose agentic systems across complex tasks and environments, while studying the capability boundaries and internal mechanisms of LLMs.
@@ -36,10 +36,6 @@ Representative works: [AtomR](https://arxiv.org/abs/2411.16495), [LLMAEL](https:
 - 🔬 **[Sep 2026]** We introduced **[OSWorld-Science](https://arxiv.org/abs/2609.39903)**, a benchmark that tests how well computer use agents learn and use scientific software.
 - 🎉 **[Jun 2026]** We open-sourced **[EurekAgent](https://github.com/THU-Team-Eureka/EurekAgent)**, won the **BAAI Agent for Science Competition Highlight Award**, and gave an invited oral presentation at the 2026 BAAI Conference.
 - 🔥 **[May 2026]** Our paper **[AISE-Bench: A Full-Cycle Curated Benchmark for Information Seeking on Academic Knowledge Graphs](https://arxiv.org/abs/2607.20498)** was accepted to **KDD 2026**.
-- 🌟 **[Dec 2025]** Our papers **[AGENTIF: Benchmarking Instruction Following of Large Language Models in Agentic Scenarios](https://arxiv.org/abs/2505.16944)** and **[How do Transformers Learn Implicit Reasoning?](https://arxiv.org/abs/2505.23653)** were both accepted to **NeurIPS 2025** as *apotlight papers*.
-- 📣 **[Nov 2025]** Our paper **[LLMAEL: Large Language Models are Good Context Augmenters for Entity Linking](https://arxiv.org/abs/2407.04020)** was accepted to **CIKM 2025** as an *oral paper*.
-- 📈 **[Oct 2025]** We open-sourced **[StockBench](https://arxiv.org/abs/2510.02209)**, a contamination-free benchmark for evaluating LLM agents in realistic, multi-month stock trading environments.
-- 🚀 **[Aug 2025]** Our paper **[AtomR: Atomic Operator-Empowered Large Language Models for Heterogeneous Knowledge Reasoning](https://arxiv.org/abs/2411.16495)** was accepted to **KDD 2025** as an *oral paper*.
 
 ## Selected Publications
 
@@ -55,13 +51,13 @@ Representative works: [AtomR](https://arxiv.org/abs/2411.16495), [LLMAEL](https:
    Jiening Siow\*, <span style="color: rgb(100,0,0)">**Amy Xin**</span>\*, Junjie Wang, Ziyu Tang, Zijun Yao, Yunjia Qi, Fanjin Zhang, Lei Hou, Jie Tang, Juanzi Li  
    *arXiv preprint, 2026.*
 
-3. **[OSWorld-Science: A Benchmark of Computer Use Agents for Learning and Using Scientific Software](https://arxiv.org/abs/2609.39903)**  
-   Dingyuan Dai, Heli Qi, Lei Liu, ..., <span style="color: rgb(100,0,0)">**Amy Xin**</span>, ..., Weihao Xuan, Tianyu Liu  
-   *arXiv preprint, 2026.*
-
-4. **[EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery](https://arxiv.org/abs/2606.13662)**  
+3. **[EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery](https://arxiv.org/abs/2606.13662)**  
    <span style="color: rgb(100,0,0)">**Amy Xin**</span>, Jiening Siow, Junjie Wang, Zijun Yao, Fanjin Zhang, Jian Song, Lei Hou, Juanzi Li  
    *arXiv preprint, 2026.* <span style="color: rgb(160,0,0)">**Award Winner, BAAI Agent for Science Competition; Invited Oral Presentation at 2026 BAAI Conference**</span>
+
+4. **[OSWorld-Science: A Benchmark of Computer Use Agents for Learning and Using Scientific Software](https://arxiv.org/abs/2609.39903)**  
+   Dingyuan Dai, Heli Qi, Lei Liu, ..., <span style="color: rgb(100,0,0)">**Amy Xin**</span>, ..., Weihao Xuan, Tianyu Liu  
+   *arXiv preprint, 2026.*
 
 5. **[AISE-Bench: A Full-Cycle Curated Benchmark for Information Seeking on Academic Knowledge Graphs](https://arxiv.org/abs/2607.20498)**  
    Fanjin Zhang\*, Zhengyang Wang\*, Ruixuan Huang, Kefan Zhang, <span style="color: rgb(100,0,0)">**Amy Xin**</span>, Yuanchun Wang, Shu Zhao, Evgeny Kharlamov, Jie Tang, Juanzi Li  
@@ -112,7 +108,8 @@ Representative works: [AtomR](https://arxiv.org/abs/2411.16495), [LLMAEL](https:
 - **BAAI Agent for Science Competition Highlight Award** for *[EurekAgent](https://arxiv.org/abs/2606.13662)* (2026).
 - **ACL Best Demo Award** for *[VisKoP](https://arxiv.org/abs/2307.03130)* (2023).
 - **Chinese Government Scholarship**, awarded for 4 consecutive years (2023-2026).
-- **Tsinghua University Merit Scholarships**, awarded three times (2021-2023).
+- **Tsinghua University Comprehensive Scholarship** (2026).
+- **Tsinghua University Merit Scholarships**, awarded three times for distinction in specific areas (2021–2023).
 
 ## Activities and Hobbies
 

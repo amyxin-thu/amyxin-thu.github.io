@@ -19,13 +19,13 @@ author_profile: true
    Jiening Siow\*, <span style="color: rgb(100,0,0)">**Amy Xin**</span>\*, Junjie Wang, Ziyu Tang, Zijun Yao, Yunjia Qi, Fanjin Zhang, Lei Hou, Jie Tang, Juanzi Li  
    *arXiv preprint, 2026.*
 
-3. **[OSWorld-Science: A Benchmark of Computer Use Agents for Learning and Using Scientific Software](https://arxiv.org/abs/2609.39903)**  
-   Dingyuan Dai, Heli Qi, Lei Liu, ..., <span style="color: rgb(100,0,0)">**Amy Xin**</span>, ..., Weihao Xuan, Tianyu Liu  
-   *arXiv preprint, 2026.*
-
-4. **EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery**  
+3. **EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery**  
    <span style="color: rgb(100,0,0)">**Amy Xin**</span>, Jiening Siow, Junjie Wang, Zijun Yao, Fanjin Zhang, Jian Song, Lei Hou, Juanzi Li  
    *arXiv preprint, 2026.* <span style="color: rgb(160,0,0)">**Award Winner, BAAI Agent for Science Competition; Invited Oral Presentation at 2026 BAAI Conference**</span>
+
+4. **[OSWorld-Science: A Benchmark of Computer Use Agents for Learning and Using Scientific Software](https://arxiv.org/abs/2609.39903)**  
+   Dingyuan Dai, Heli Qi, Lei Liu, ..., <span style="color: rgb(100,0,0)">**Amy Xin**</span>, ..., Weihao Xuan, Tianyu Liu  
+   *arXiv preprint, 2026.*
 
 5. **On the Paradoxical Interference between Instruction-Following and Task Solving**  
    Yunjia Qi, Hao Peng, Xintong Shi, <span style="color: rgb(100,0,0)">**Amy Xin**</span>, Xiaozhi Wang, Bin Xu, Lei Hou, Juanzi Li  
