@@ -13,7 +13,7 @@ Before starting my Ph.D., I received my M.S. in Computer Science and Technology 
 
 My research focuses on **large language models**, with a recent focus on **LLM agents for scientific research**.
 
-Currently, I have **4 first-author papers** and **10 co-authored papers**, with **400+ Google Scholar citations**.
+I am a **first or co-first author on 5 papers** and a **co-author on 9 others**, with **480+ Google Scholar citations**.
 You can find my publications on **[Google Scholar](https://scholar.google.com/citations?user=2UKO_uYAAAAJ&hl=en)**.
 
 
