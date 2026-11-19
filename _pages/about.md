@@ -23,7 +23,7 @@ My vision is to build **powerful and responsible AI agents** that augment human 
 
 **1) LLM Agents for Scientific and Strategic Research**  
 Developing capable agentic systems that accelerate scientific research and strategic decision making.
-Representative works: [EurekAgent](https://arxiv.org/abs/2606.13662), [IdeaReward](https://openreview.net/forum?id=KL3GMYps6X), [RIDAR](https://arxiv.org/abs/2610.31372), [StockBench](https://arxiv.org/abs/2510.02209).
+Representative works: [EurekAgent](https://arxiv.org/abs/2606.13662), [IdeaReward](https://openreview.net/forum?id=KL3GMYps6X), [RIDAR](https://arxiv.org/abs/2610.31372), [OSWorld-Science](https://arxiv.org/abs/2609.39903), [StockBench](https://arxiv.org/abs/2510.02209).
 
 **2) General LLM Agents and Model Understanding**  
 Building and evaluating general-purpose agentic systems across complex tasks and environments, while studying the capability boundaries and internal mechanisms of LLMs.
