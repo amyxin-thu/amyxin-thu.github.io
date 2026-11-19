@@ -31,6 +31,9 @@ Representative works: [AtomR](https://arxiv.org/abs/2411.16495), [LLMAEL](https:
 
 ## News
 
+- 💡 **[Oct 2026]** **[IdeaReward](https://openreview.net/forum?id=KL3GMYps6X)** is now on OpenReview. We benchmark and train reward models to evaluate research ideas.
+- 🛡️ **[Oct 2026]** We introduced **[RIDAR](https://arxiv.org/abs/2610.31372)** to detect research integrity issues in autonomous research agents and intervene as they work.
+- 🔬 **[Sep 2026]** We introduced **[OSWorld-Science](https://arxiv.org/abs/2609.39903)**, a benchmark that tests how well computer use agents learn and use scientific software.
 - 🎉 **[Jun 2026]** We open-sourced **[EurekAgent](https://github.com/THU-Team-Eureka/EurekAgent)**, won the **BAAI Agent for Science Competition Highlight Award**, and gave an invited oral presentation at the 2026 BAAI Conference.
 - 🔥 **[May 2026]** Our paper **[AISE-Bench: A Full-Cycle Curated Benchmark for Information Seeking on Academic Knowledge Graphs](https://arxiv.org/abs/2607.20498)** was accepted to **KDD 2026**.
 - 🌟 **[Dec 2025]** Our papers **[AGENTIF: Benchmarking Instruction Following of Large Language Models in Agentic Scenarios](https://arxiv.org/abs/2505.16944)** and **[How do Transformers Learn Implicit Reasoning?](https://arxiv.org/abs/2505.23653)** were both accepted to **NeurIPS 2025** as *apotlight papers*.
@@ -46,10 +49,10 @@ Representative works: [AtomR](https://arxiv.org/abs/2411.16495), [LLMAEL](https:
 
 1. **[IdeaReward: Benchmarking and Training Reward Models for Research Idea Generation](https://openreview.net/forum?id=KL3GMYps6X)**  
    <span style="color: rgb(100,0,0)">**Amy Xin**</span>\*, Xinming Xu\*, Yunjia Qi, Bin Xu, Lei Hou, Juanzi Li  
-   *Manuscript, 2026.*
+   *OpenReview, 2026.*
 
 2. **[RIDAR: Safeguarding Research Integrity in Autonomous Research Agents via Automated Detection and Runtime Intervention](https://arxiv.org/abs/2610.31372)**  
-   Jiening Siow, <span style="color: rgb(100,0,0)">**Amy Xin**</span>, Junjie Wang, Ziyu Tang, Zijun Yao, Yunjia Qi, Fanjin Zhang, Lei Hou, Jie Tang, Juanzi Li  
+   Jiening Siow\*, <span style="color: rgb(100,0,0)">**Amy Xin**</span>\*, Junjie Wang, Ziyu Tang, Zijun Yao, Yunjia Qi, Fanjin Zhang, Lei Hou, Jie Tang, Juanzi Li  
    *arXiv preprint, 2026.*
 
 3. **[OSWorld-Science: A Benchmark of Computer Use Agents for Learning and Using Scientific Software](https://arxiv.org/abs/2609.39903)**  
@@ -60,13 +63,13 @@ Representative works: [AtomR](https://arxiv.org/abs/2411.16495), [LLMAEL](https:
    <span style="color: rgb(100,0,0)">**Amy Xin**</span>, Jiening Siow, Junjie Wang, Zijun Yao, Fanjin Zhang, Jian Song, Lei Hou, Juanzi Li  
    *arXiv preprint, 2026.* <span style="color: rgb(160,0,0)">**Award Winner, BAAI Agent for Science Competition; Invited Oral Presentation at 2026 BAAI Conference**</span>
 
-5. **[StockBench: Can LLM Agents Trade Stocks Profitably In Real-world Markets?](https://arxiv.org/abs/2510.02209)**  
-   Yanxu Chen\*, Zijun Yao\*, Yantao Liu\*, <span style="color: rgb(100,0,0)">**Amy Xin**</span>, Jin Ye, Jianing Yu, Lei Hou, Juanzi Li  
-   *arXiv preprint, 2025.*
-   
-6. **[AISE-Bench: A Full-Cycle Curated Benchmark for Information Seeking on Academic Knowledge Graphs](https://arxiv.org/abs/2607.20498)**  
+5. **[AISE-Bench: A Full-Cycle Curated Benchmark for Information Seeking on Academic Knowledge Graphs](https://arxiv.org/abs/2607.20498)**  
    Fanjin Zhang\*, Zhengyang Wang\*, Ruixuan Huang, Kefan Zhang, <span style="color: rgb(100,0,0)">**Amy Xin**</span>, Yuanchun Wang, Shu Zhao, Evgeny Kharlamov, Jie Tang, Juanzi Li  
    *KDD, 2026.*
+
+6. **[StockBench: Can LLM Agents Trade Stocks Profitably In Real-world Markets?](https://arxiv.org/abs/2510.02209)**  
+   Yanxu Chen\*, Zijun Yao\*, Yantao Liu\*, <span style="color: rgb(100,0,0)">**Amy Xin**</span>, Jin Ye, Jianing Yu, Lei Hou, Juanzi Li  
+   *arXiv preprint, 2025.*
 
 ### General LLM Agents and Model Understanding
 

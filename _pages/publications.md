@@ -13,10 +13,10 @@ author_profile: true
 
 1. **[IdeaReward: Benchmarking and Training Reward Models for Research Idea Generation](https://openreview.net/forum?id=KL3GMYps6X)**  
    <span style="color: rgb(100,0,0)">**Amy Xin**</span>\*, Xinming Xu\*, Yunjia Qi, Bin Xu, Lei Hou, Juanzi Li  
-   *Manuscript, 2026.*
+   *OpenReview, 2026.*
 
 2. **[RIDAR: Safeguarding Research Integrity in Autonomous Research Agents via Automated Detection and Runtime Intervention](https://arxiv.org/abs/2610.31372)**  
-   Jiening Siow, <span style="color: rgb(100,0,0)">**Amy Xin**</span>, Junjie Wang, Ziyu Tang, Zijun Yao, Yunjia Qi, Fanjin Zhang, Lei Hou, Jie Tang, Juanzi Li  
+   Jiening Siow\*, <span style="color: rgb(100,0,0)">**Amy Xin**</span>\*, Junjie Wang, Ziyu Tang, Zijun Yao, Yunjia Qi, Fanjin Zhang, Lei Hou, Jie Tang, Juanzi Li  
    *arXiv preprint, 2026.*
 
 3. **[OSWorld-Science: A Benchmark of Computer Use Agents for Learning and Using Scientific Software](https://arxiv.org/abs/2609.39903)**  
