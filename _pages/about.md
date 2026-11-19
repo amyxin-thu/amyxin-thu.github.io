@@ -13,7 +13,7 @@ Before starting my Ph.D., I received my M.S. in Computer Science and Technology 
 
 My research focuses on **large language models**, with a recent focus on **LLM agents for scientific research**.
 
-Currently, I have **3 first-author papers** and **8 co-authored papers**, with **400+ Google Scholar citations**.
+Currently, I have **4 first-author papers** and **10 co-authored papers**, with **400+ Google Scholar citations**.
 You can find my publications on **[Google Scholar](https://scholar.google.com/citations?user=2UKO_uYAAAAJ&hl=en)**.
 
 
@@ -44,41 +44,53 @@ Representative works: [AtomR](https://arxiv.org/abs/2411.16495), [LLMAEL](https:
 
 ### LLM Agents for Scientific and Strategic Research
 
-1. **[EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery](https://arxiv.org/abs/2606.13662)**  
+1. **[IdeaReward: Benchmarking and Training Reward Models for Research Idea Generation](https://openreview.net/forum?id=KL3GMYps6X)**  
+   <span style="color: rgb(100,0,0)">**Amy Xin**</span>\*, Xinming Xu\*, Yunjia Qi, Bin Xu, Lei Hou, Juanzi Li  
+   *Manuscript, 2026.*
+
+2. **[RIDAR: Safeguarding Research Integrity in Autonomous Research Agents via Automated Detection and Runtime Intervention](https://arxiv.org/abs/2610.31372)**  
+   Jiening Siow, <span style="color: rgb(100,0,0)">**Amy Xin**</span>, Junjie Wang, Ziyu Tang, Zijun Yao, Yunjia Qi, Fanjin Zhang, Lei Hou, Jie Tang, Juanzi Li  
+   *arXiv preprint, 2026.*
+
+3. **[OSWorld-Science: A Benchmark of Computer Use Agents for Learning and Using Scientific Software](https://arxiv.org/abs/2609.39903)**  
+   Dingyuan Dai, Heli Qi, Lei Liu, ..., <span style="color: rgb(100,0,0)">**Amy Xin**</span>, ..., Weihao Xuan, Tianyu Liu  
+   *arXiv preprint, 2026.*
+
+4. **[EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery](https://arxiv.org/abs/2606.13662)**  
    <span style="color: rgb(100,0,0)">**Amy Xin**</span>, Jiening Siow, Junjie Wang, Zijun Yao, Fanjin Zhang, Jian Song, Lei Hou, Juanzi Li  
    *arXiv preprint, 2026.* <span style="color: rgb(160,0,0)">**Award Winner, BAAI Agent for Science Competition; Invited Oral Presentation at 2026 BAAI Conference**</span>
 
-2. **[StockBench: Can LLM Agents Trade Stocks Profitably In Real-world Markets?](https://arxiv.org/abs/2510.02209)**  
+5. **[StockBench: Can LLM Agents Trade Stocks Profitably In Real-world Markets?](https://arxiv.org/abs/2510.02209)**  
    Yanxu Chen\*, Zijun Yao\*, Yantao Liu\*, <span style="color: rgb(100,0,0)">**Amy Xin**</span>, Jin Ye, Jianing Yu, Lei Hou, Juanzi Li  
    *arXiv preprint, 2025.*
    
-3. **[AISE-Bench: A Full-Cycle Curated Benchmark for Information Seeking on Academic Knowledge Graphs](https://arxiv.org/abs/2607.20498)**  
+6. **[AISE-Bench: A Full-Cycle Curated Benchmark for Information Seeking on Academic Knowledge Graphs](https://arxiv.org/abs/2607.20498)**  
    Fanjin Zhang\*, Zhengyang Wang\*, Ruixuan Huang, Kefan Zhang, <span style="color: rgb(100,0,0)">**Amy Xin**</span>, Yuanchun Wang, Shu Zhao, Evgeny Kharlamov, Jie Tang, Juanzi Li  
    *KDD, 2026.*
 
 ### General LLM Agents and Model Understanding
 
-4. **[AtomR: Atomic Operator-Empowered Large Language Models for Heterogeneous Knowledge Reasoning](https://arxiv.org/abs/2411.16495)**  
+7. **[AtomR: Atomic Operator-Empowered Large Language Models for Heterogeneous Knowledge Reasoning](https://arxiv.org/abs/2411.16495)**  
    <span style="color: rgb(100,0,0)">**Amy Xin**</span>\*, Jinxin Liu\*, Zijun Yao, Zhicheng Lee, Shulin Cao, Lei Hou, Juanzi Li  
    *KDD, 2025.* <span style="color: rgb(160,0,0)">**Oral Presentation**</span>
 
-5. **[LLMAEL: Large Language Models are Good Context Augmenters for Entity Linking](https://arxiv.org/abs/2407.04020)**  
+8. **[LLMAEL: Large Language Models are Good Context Augmenters for Entity Linking](https://arxiv.org/abs/2407.04020)**  
    <span style="color: rgb(100,0,0)">**Amy Xin**</span>\*, Yunjia Qi\*, Zijun Yao, Fangwei Zhu, Kaisheng Zeng, Bin Xu, Lei Hou, Juanzi Li  
    *CIKM, 2025.* <span style="color: rgb(160,0,0)">**Oral Presentation**</span>
 
-6. **[AGENTIF: Benchmarking Instruction Following of Large Language Models in Agentic Scenarios](https://arxiv.org/abs/2505.16944)**  
+9. **[AGENTIF: Benchmarking Instruction Following of Large Language Models in Agentic Scenarios](https://arxiv.org/abs/2505.16944)**  
    Yunjia Qi\*, Hao Peng\*, Xiaozhi Wang, <span style="color: rgb(100,0,0)">**Amy Xin**</span>, Youfeng Liu, Bin Xu, Lei Hou, Juanzi Li  
    *NeurIPS, 2025.* <span style="color: rgb(160,0,0)">**Spotlight**</span>
 
-7. **[VisKoP: Visual Knowledge Oriented Programming for Interactive Knowledge Base Question Answering](https://arxiv.org/abs/2307.03130)**  
+10. **[VisKoP: Visual Knowledge Oriented Programming for Interactive Knowledge Base Question Answering](https://arxiv.org/abs/2307.03130)**  
    Zijun Yao\*, Yuanyong Chen\*, Xin Lv, Shulin Cao, <span style="color: rgb(100,0,0)">**Amy Xin**</span>, Jifan Yu, Hailong Jin, Jianjun Xu, Peng Zhang, Lei Hou, Juanzi Li  
    *ACL, 2023.* <span style="color: rgb(160,0,0)">**Best Demo Award**</span>
 
-8. **[How do Transformers Learn Implicit Reasoning?](https://arxiv.org/abs/2505.23653)**  
+11. **[How do Transformers Learn Implicit Reasoning?](https://arxiv.org/abs/2505.23653)**  
    Jiaran Ye\*, Zijun Yao\*, Zhidian Huang, Liangming Pan, Jinxin Liu, Yushi Bai, <span style="color: rgb(100,0,0)">**Amy Xin**</span>, Weichuan Liu, Xiaoyin Che, Lei Hou, Juanzi Li  
    *NeurIPS, 2025.* <span style="color: rgb(160,0,0)">**Spotlight**</span>
 
-9. **[KoLA: Carefully Benchmarking World Knowledge of Large Language Models](https://arxiv.org/abs/2306.09296)**  
+12. **[KoLA: Carefully Benchmarking World Knowledge of Large Language Models](https://arxiv.org/abs/2306.09296)**  
    Jifan Yu\*, Xiaozhi Wang\*, Shangqing Tu, Shulin Cao, Daniel Zhang-Li, Xin Lv, Hao Peng, Zijun Yao, Xiaohan Zhang, Hanming Li, Chunyang Li, Zheyuan Zhang, Yushi Bai, Yantao Liu, <span style="color: rgb(100,0,0)">**Amy Xin**</span>, ..., Lei Hou, Zhiyuan Liu, Bin Xu, Jie Tang, Juanzi Li  
    *ICLR, 2024.*
 
